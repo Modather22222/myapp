@@ -1,0 +1,18 @@
+
+# Miscellaneous
+.DS_Store
+
+# Flutter/Dart
+/build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+
+# IDEs
+.idea/
+.vscode/
+
+# Secrets
+.env
